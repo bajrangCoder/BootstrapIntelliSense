@@ -2,7 +2,7 @@
   "id": "bajrangcoder.bs.intellisense",
   "name": "BootstrapIntelliSense",
   "main": "dist/main.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
